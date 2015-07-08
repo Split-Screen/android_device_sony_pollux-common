@@ -30,6 +30,3 @@ BOARD_CACHEIMAGE_PARTITION_SIZE := 576716800
 
 # Override fusion3-common
 SOMC_CFG_SENSORS_PROXIMITY_APDS9702 := false
-
-# TWRP
-TW_THEME := landscape_hdpi
